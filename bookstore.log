@@ -5,3 +5,11 @@
 1745307071370:create book --author Valaki --publisher publisher
 1745307093122:create book --author Valaki --publisher publisherKFT --price 123 --title Valami
 1745307197443:list books
+1745909309668:update book
+1745909810910:delete book 5
+1745909860261:list book
+1745909868762:list books
+1745909902032:delete book 4
+1745910234449:help
+1745911076111:List bookstores
+1745911569194:delete bookstore 4
